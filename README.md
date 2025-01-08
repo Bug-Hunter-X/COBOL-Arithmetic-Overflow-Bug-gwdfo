@@ -1,0 +1,1 @@
+This example demonstrates a common arithmetic overflow bug in COBOL.  The program adds two numeric fields, but the result exceeds the capacity of the receiving field leading to incorrect results or program termination. The solution showcases how to handle potential overflows using larger data types or runtime checks.
